@@ -1,8 +1,8 @@
 ## Next.js App Router Course - Final
 
-This is the final template for the Next.js App Router Course. It contains the final code for the dashboard application.
+to access dashboard please click [Dashboard]("https://next-js-practice-ten-lac.vercel.app/dashboard")
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+[dashboard]("https://next-js-practice-ten-lac.vercel.app/dashboard")
 
 # next-js-practice
 
